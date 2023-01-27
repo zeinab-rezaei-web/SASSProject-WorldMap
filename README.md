@@ -1,7 +1,7 @@
 # SASSProject-WorldMap
 ** A dotted world map project developed with SASS**
 
-- [Demo of this Project](Zeinab Rezaei-Web12-Sess 15,16)
+- [Demo of this Project](https://zeinab-rezaei-web.github.io/SASSProject-WorldMap/)
 
 https://user-images.githubusercontent.com/121185931/215214135-5ef95b98-8139-4454-ab4c-cb6a82d21ac7.mp4
 
